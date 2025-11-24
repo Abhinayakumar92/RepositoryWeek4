@@ -1,0 +1,30 @@
+---
+title: "Week4practical"
+author: "Abi"
+date: "2025-11-24"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Code Chunks
+
+```{r code chunk 1}
+a<- 1
+```
+
+```{r code chunk 2}
+b<- 2
+```
+
+## Ordered lists
+
+1. One
+2. Two
+3. Three
+
+## Unordered list
+
+- One
+- Two
+- Three
